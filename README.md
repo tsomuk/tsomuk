@@ -4,6 +4,10 @@
 # Nikita Tsomuk
 ## I am iOS Developer with QA background 
 
+<!-- SOCIAL NETWORK -->
+[<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/link.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tsomuk/) [<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/insta.png' alt='instagram' height='40'>](https://www.instagram.com/tsomuk/) [<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/git.png' alt='github' height='40'>](https://github.com/tsomuk) 
+
+
 ### Skills: 
 **Swift / UIKit / SwiftUI / Git / MVC / MVVM / CocoaPods / SQLite / GSD / REST / Unit Testing / UI Testing**
 
@@ -38,8 +42,6 @@ The application has two main screens - the image feed and the profile screen. Sw
 
 
 
-<!-- SOCIAL NETWORK -->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tsomuk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tsomuk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tsomuk/)  
 
 
 
