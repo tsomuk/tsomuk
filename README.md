@@ -1,4 +1,3 @@
-
 ![Header of the page](https://github.com/tsomuk/tsomuk/blob/main/Header_tsomuk_2.png)
 
 # Nikita Tsomuk
@@ -6,7 +5,6 @@
 
 <!-- SOCIAL NETWORK -->
 [<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/link.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tsomuk/) [<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/insta.png' alt='instagram' height='40'>](https://www.instagram.com/tsomuk/) [<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/git.png' alt='github' height='40'>](https://github.com/tsomuk) 
-
 
 ### Skills: 
 **Swift / UIKit / SwiftUI / Git / MVC / MVVM / CocoaPods / SQLite / GSD / REST / Unit Testing / UI Testing**
@@ -24,7 +22,6 @@ Users of the application answer questions about the movie ratings sequentially. 
 
 <img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_1.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_gif2.gif" width="220"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_3.png" width="220">
 
-
 <!-- ImageFeed APP -->
 ### ImageFeed app
 An application with an endless feed of photos from the Unsplash service. Login is done through an account via WebView. 
@@ -33,9 +30,6 @@ The application has two main screens - the image feed and the profile screen. Sw
 > UIKIt, UITableView, WebView, Networking, Keychain Wrapper, Kingfisher, ProgressHUD, Unit Tests, UI Tests
 
 <img src="https://github.com/tsomuk/tsomuk/blob/main/IF_2.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/IF_1_copy.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/IF_3_copy.png" width="220">
-
-
-
 
 <!-- STATISTICS -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsomuk&theme=dark&show_icons=true&rank_icon=github)
