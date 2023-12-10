@@ -18,7 +18,7 @@ A single-page application featuring quizzes about movies from the top 250 IMDb r
 
 > Networking, UserDefaults, MVC, Unit Tests, UI Tests
 
-<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_1.png" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_gif2.gif" width="200"/><img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_3.png" width="200">
+<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_1.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_gif2.gif" width="220"/><img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_3.png" width="220">
 
 
 
