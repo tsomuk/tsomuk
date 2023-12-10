@@ -38,7 +38,7 @@ The application has two main screens - the image feed and the profile screen. Sw
 
 
 <!-- STATISTICS -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsomuk&show_icons=true&theme=radical&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsomuk&theme=dark&show_icons=true&rank_icon=github)
 
 
 
