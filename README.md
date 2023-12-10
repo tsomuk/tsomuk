@@ -6,7 +6,7 @@
 ## I am iOS Developer with QA background 
 
 ### Skills: 
-Swift / UIKit / SwiftUI / Git / MVC / MVVM / CocoaPods / SQLite / GSD / REST / Unit Testing / UI Testing
+**Swift / UIKit / SwiftUI / Git / MVC / MVVM / CocoaPods / SQLite / GSD / REST / Unit Testing / UI Testing**
 
 I’m currently working on two studying projects. Client for Unsplash service and habit tracker  
 
