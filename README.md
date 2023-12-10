@@ -1,5 +1,4 @@
 
-
 ![Header of the page](https://github.com/tsomuk/tsomuk/blob/main/Header_tsomuk_2.png)
 
 # Nikita Tsomuk
@@ -14,11 +13,23 @@ I’m currently working on two studying projects. Client for Unsplash service an
 ## Examples of work
 <!-- MOVIE QUIZ -->
 ### Movie Quiz app 
-A single-page application featuring quizzes about movies from the top 250 IMDb ratings and the most popular films. Users of the application answer questions about the movie ratings sequentially. At the end of each round, the game displays statistics on the number of correct answers and the user's best results. The goal of the game is to answer all 10 questions in a round correctly.
+A single-page application featuring quizzes about movies from the top 250 IMDb ratings and the most popular films. 
+Users of the application answer questions about the movie ratings sequentially. At the end of each round, the game displays statistics on the number of correct answers and the user's best results. The goal of the game is to answer all 10 questions in a round correctly.
 
-> Networking, UserDefaults, MVC, Unit Tests, UI Tests
+> UIKIt, Networking, UserDefaults, MVC, Unit Tests, UI Tests
 
-<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_1.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_gif2.gif" width="220"/><img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_3.png" width="220">
+<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_1.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_gif2.gif" width="220"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_3.png" width="220">
+
+
+<!-- ImageFeed APP -->
+### ImageFeed app
+An application with an endless feed of photos from the Unsplash service. Login is done through an account via WebView. 
+The application has two main screens - the image feed and the profile screen. Switching between them is done using a TabBar. From the image feed, you can navigate to a full-screen image viewing screen with the option to save or share the picture.
+
+> UIKIt, UITableView, WebView, Networking, Keychain Wrapper, Kingfisher, ProgressHUD, Unit Tests, UI Tests
+
+<img src="https://github.com/tsomuk/tsomuk/blob/main/IF_2.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/IF_1_copy.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/IF_3_copy.png" width="220">
+
 
 
 
