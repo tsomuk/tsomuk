@@ -3,8 +3,10 @@
 # Nikita Tsomuk
 ## I am iOS Developer with QA background 
 
+* 🌍  I'm based in Tel-Aviv
+* ✉️  You can contact me via:
 <!-- SOCIAL NETWORK -->
-[<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/link.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tsomuk/) [<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/insta.png' alt='instagram' height='40'>](https://www.instagram.com/tsomuk/) [<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/git.png' alt='github' height='40'>](https://github.com/tsomuk) 
+[<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/link_color.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tsomuk/) [<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/tele_color.png' alt='github' height='40'>](https://t.me/tsomuk) [<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/gmail_color.png' height='40'>](mailto:tsomuk.code@gmail.com) [<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/insta_color.png' alt='instagram' height='40'>](https://www.instagram.com/tsomuk/)
 
 ### Skills: 
 
