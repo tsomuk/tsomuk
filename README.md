@@ -35,7 +35,11 @@ The application has six screens, two main of them  - the image feed and the prof
 
 > UIKIt, UITableView, WebView, Networking, Keychain Wrapper, Kingfisher, ProgressHUD, Unit Tests, UI Tests
 
+<img src="https://github.com/tsomuk/tsomuk/blob/main/ImageFeed/IF_0.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/tsomuk/tsomuk/blob/main/IF_2.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/IF_1_copy.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/IF_3_copy.png" width="220">
+
+
+
 
 <!-- STATISTICS -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsomuk&theme=dark&show_icons=true&rank_icon=github)
