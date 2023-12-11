@@ -1,7 +1,7 @@
 ![Header of the page](https://github.com/tsomuk/tsomuk/blob/main/Header_tsomuk_2.png)
 
 # Nikita Tsomuk
-##iOS Developer with QA background 
+## iOS Developer with QA background 
 
 * 🌍  I'm based in Tel-Aviv
 * ✉️  You can contact me via:
