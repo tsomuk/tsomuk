@@ -31,7 +31,7 @@ Users of the application answer questions about the movie ratings sequentially. 
 <!-- ImageFeed APP -->
 ### ImageFeed app
 An application with an endless feed of photos from the Unsplash service. Login is done through an account via WebView. 
-The application has two main screens - the image feed and the profile screen. Switching between them is done using a TabBar. From the image feed, you can navigate to a full-screen image viewing screen with the option to save or share the picture.
+The application has six screens, two main of them  - the image feed and the profile screen. Switching between them is done using a TabBar. From the image feed, you can navigate to a full-screen image viewing screen with the option to save or share the picture.
 
 > UIKIt, UITableView, WebView, Networking, Keychain Wrapper, Kingfisher, ProgressHUD, Unit Tests, UI Tests
 
