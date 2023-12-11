@@ -7,7 +7,11 @@
 [<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/link.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tsomuk/) [<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/insta.png' alt='instagram' height='40'>](https://www.instagram.com/tsomuk/) [<img src='https://github.com/tsomuk/tsomuk/blob/main/Social_Network/git.png' alt='github' height='40'>](https://github.com/tsomuk) 
 
 ### Skills: 
-**Swift / UIKit / SwiftUI / Git / MVC / MVVM / CocoaPods / SQLite / GSD / REST / Unit Testing / UI Testing**
+
+<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> </p>
+
+
+**UIKit / SwiftUI / MVC / MVVM / CocoaPods / SQLite / GSD / REST / Unit Testing / UI Testing**
 
 I’m currently working on two studying projects. Client for Unsplash service and habit tracker  
 
