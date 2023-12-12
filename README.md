@@ -28,7 +28,6 @@ Users of the application answer questions about the movie ratings sequentially. 
 
 <img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_1.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_gif2.gif" width="220"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_3.png" width="220">
 
- ImageFeed APP 
 ### ImageFeed app
 An application with an endless feed of photos from the Unsplash service. Login is done through an account via WebView. 
 The application has six screens, two main of them  - the image feed and the profile screen. Switching between them is done using a TabBar. From the image feed, you can navigate to a full-screen image viewing screen with the option to save or share the picture.
