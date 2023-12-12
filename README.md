@@ -1,4 +1,4 @@
-![Header of the page](https://github.com/tsomuk/tsomuk/blob/main/Header_tsomuk_2.png)
+![Header of the page](https://github.com/tsomuk/tsomuk/blob/main/General/Header_tsomuk_2.png)
 
 # Nikita Tsomuk
 ## iOS Developer with QA background 
