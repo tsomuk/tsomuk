@@ -34,14 +34,20 @@ An application with an endless feed of photos from the Unsplash service. Login i
 The application has six screens, two main of them  - the image feed and the profile screen. Switching between them is done using a TabBar. From the image feed, you can navigate to a full-screen image viewing screen with the option to save or share the picture.
 
 > UIKIt, UITableView, WKWebView, Networking, Keychain Wrapper, Kingfisher, ProgressHUD, Unit Tests, UI Tests
-
+<img src="https://github.com/tsomuk/tsomuk/blob/main/ImageFeed/IF_eng2.jpg" >
 
 <!--
 
 I’m currently working on two studying projects. Client for Unsplash service and habit tracker  
 
 // MOCKUP IMAGE 
+
 <img src="https://github.com/tsomuk/tsomuk/blob/main/ImageFeed/IF_orange.jpg" >
+<img src="https://github.com/tsomuk/tsomuk/blob/main/ImageFeed/IF_eng.jpg" >
+
+
+<img src="https://github.com/tsomuk/tsomuk/blob/main/ImageFeed/IF_0.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/IF_2.png" width="220">
+<img src="https://github.com/tsomuk/tsomuk/blob/main/IF_1_copy.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/IF_3_copy.png" width="220">
 -->
 
 
@@ -50,9 +56,8 @@ I’m currently working on two studying projects. Client for Unsplash service an
 
 
 
-<img src="https://github.com/tsomuk/tsomuk/blob/main/ImageFeed/IF_0.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/IF_2.png" width="220">
 
-<img src="https://github.com/tsomuk/tsomuk/blob/main/IF_1_copy.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/IF_3_copy.png" width="220">
+
 
 
 
