@@ -19,7 +19,7 @@
 <!-- EXAMPLES OF THE APPS -->
 # Examples of work:
 <!-- MOVIE QUIZ -->
-## [<img src='https://github.com/tsomuk/tsomuk/blob/main/app_icons/Movie.png' alt='linkedin' height='20'>]()  Movie Quiz  
+## [<img src='https://github.com/tsomuk/tsomuk/blob/main/app_icons/Movie.png' alt='linkedin' height='20'>](https://github.com/tsomuk/MovieQuiz)  Movie Quiz  
 
 
 A single-page application featuring quizzes about movies from the top 250 IMDb ratings and the most popular films. 
@@ -29,7 +29,7 @@ Users of the application answer questions about the movie ratings sequentially. 
 
 <img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_1.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_gif2.gif" width="220"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_3.png" width="220">
 
-## [<img src='https://github.com/tsomuk/tsomuk/blob/main/app_icons/imagefeed.png' alt='linkedin' height='20'>]()  ImageFeed
+## [<img src='https://github.com/tsomuk/tsomuk/blob/main/app_icons/imagefeed.png' alt='linkedin' height='20'>](https://github.com/tsomuk/ImageFeed)  ImageFeed
 An application with an endless feed of photos from the Unsplash service. Login is done through an account via WebView. 
 The application has six screens, two main of them  - the image feed and the profile screen. Switching between them is done using a TabBar. From the image feed, you can navigate to a full-screen image viewing screen with the option to save or share the picture.
 
