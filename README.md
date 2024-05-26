@@ -37,6 +37,17 @@ The application has six screens, two main of them  - the image feed and the prof
 <img src="https://github.com/tsomuk/tsomuk/blob/main/ImageFeed/IF_eng2.jpg">
 
 
+## [<img src='https://github.com/tsomuk/tsomuk/blob/main/NFT_Marketplace/icon_fakeNFT_rounded.png' alt='linkedin' height='20'> NFT Marketplace](https://github.com/tsomuk/NFT-Marketplace)  
+The application helps users browse and purchase NFTs. The purchase functionality is simulated using a mock server.
+- Browse NFT Collections: Users can view different collections of NFTs.
+- View and Purchase NFTs (Simulated): Users can view individual NFTs and simulate the purchase process.
+- View User Ratings: Users can see a ranking of other users based on their activity or collection.
+
+> UIKIt, Snapkit, UICollectionView, WKWebView, Networking, Kingfisher, ProgressHUD
+<img src="https://github.com/tsomuk/tsomuk/blob/main/NFT_Marketplace/FakeNFT_final.png">
+
+
+
 ## [<img src='https://github.com/tsomuk/tsomuk/blob/main/app_icons/icon_doct.png' alt='linkedin' height='20'> Doct24 Online](https://github.com/tsomuk/DocTest) 
 The goal of this test assignment is to create an application that displays a list of doctors and information about them. The application should have three screens: a list of doctors, a detailed screen, and a booking screen. The data should be loaded in JSON format from the internet.
 
