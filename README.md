@@ -43,7 +43,7 @@ The application helps users browse and purchase NFTs. The purchase functionality
 - View and Purchase NFTs (Simulated): Users can view individual NFTs and simulate the purchase process.
 - View User Ratings: Users can see a ranking of other users based on their activity or collection.
 
-> UIKIt, Snapkit, UICollectionView, WKWebView, Networking, Kingfisher, ProgressHUD
+> UIKIt, SnapKit, UICollectionView, WKWebView, Networking, Kingfisher, ProgressHUD
 <img src="https://github.com/tsomuk/tsomuk/blob/main/NFT_Marketplace/FakeNFT_final.png">
 
 ## [<img src='https://github.com/tsomuk/tsomuk/blob/main/Tracker/tracker_icon_croped.png' alt='linkedin' height='20'> Habit Tracker](https://github.com/tsomuk/Tracker)  
@@ -52,7 +52,7 @@ The application helps users form and track beneficial habits.
 - Track Habits by Days of the Week: Users can monitor their habits on a daily basis.
 - View Habit Progress: Users can view their progress on habits over time.
 
-> UIKIt, Coredata, Localization, UICollectionView, Snapshot Test
+> UIKIt, CoreData, Localization, UIPageViewController, UICollectionView, AppMetrica, Cocoapods, Snapshot Tests
 <img src="https://github.com/tsomuk/tsomuk/blob/main/Tracker/tracker_final2.png">
 
 
