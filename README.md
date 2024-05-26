@@ -52,7 +52,7 @@ The application helps users form and track beneficial habits.
 - Track Habits by Days of the Week: Users can monitor their habits on a daily basis.
 - View Habit Progress: Users can view their progress on habits over time.
 
-> UIKIt, MVVM, CoreData, Localization, UIPageViewController, UICollectionView, AppMetrica, Cocoapods, Snapshot Tests
+> UIKIt, MVVM, CoreData, Localization, UIPageViewController, AppMetrica, Cocoapods, Snapshot Tests
 <img src="https://github.com/tsomuk/tsomuk/blob/main/Tracker/tracker_final2.png">
 
 
