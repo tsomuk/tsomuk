@@ -19,7 +19,7 @@
 <!-- EXAMPLES OF THE APPS -->
 # Examples of work:
 <!-- MOVIE QUIZ -->
-## [<img src='https://github.com/tsomuk/tsomuk/blob/main/app_icons/Movie.png' alt='linkedin' height='20'> Movie Quiz](https://github.com/tsomuk/MovieQuiz_yp)  
+## [<img src='https://github.com/tsomuk/tsomuk/blob/main/MovieQuiz/icon.png' alt='linkedin' height='20'> Movie Quiz](https://github.com/tsomuk/MovieQuiz_yp)  
 
 
 A single-page application featuring quizzes about movies from the top 250 IMDb ratings and the most popular films. 
