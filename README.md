@@ -27,9 +27,9 @@ Users of the application answer questions about the movie ratings sequentially. 
 
 > UIKIt, Networking, UserDefaults, MVC, Unit Tests, UI Tests  
 
-<img src="https://github.com/tsomuk/tsomuk/blob/main/MovieQuiz/Movie_1.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/MovieQuiz/Movie_gif3.gif" width="220"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/MovieQuiz/Movie_3.png" width="220">
+<img src="https://github.com/tsomuk/tsomuk/blob/main/MovieQuiz/movieQuiz_final.png">
 
-## [<img src='https://github.com/tsomuk/tsomuk/blob/main/app_icons/imagefeed.png' alt='linkedin' height='20'> ImageFeed](https://github.com/tsomuk/ImageFeed)  
+## [<img src='https://github.com/tsomuk/tsomuk/blob/main/ImageFeed/imagefeed.png' alt='linkedin' height='20'> ImageFeed](https://github.com/tsomuk/ImageFeed)  
 An application with an endless feed of photos from the Unsplash service. Login is done through an account via WebView. 
 The application has six screens, two main of them  - the image feed and the profile screen. Switching between them is done using a TabBar. From the image feed, you can navigate to a full-screen image viewing screen with the option to save or share the picture.
 
