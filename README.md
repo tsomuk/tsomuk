@@ -48,7 +48,7 @@ The application helps users browse and purchase NFTs. The purchase functionality
 
 
 
-## [<img src='https://github.com/tsomuk/tsomuk/blob/main/app_icons/icon_doct.png' alt='linkedin' height='20'> Doct24 Online](https://github.com/tsomuk/DocTest) 
+## [<img src='https://github.com/tsomuk/tsomuk/blob/main/Doct24/icon_doct_rounded.png' alt='linkedin' height='20'> Doct24 Online](https://github.com/tsomuk/DocTest) 
 The goal of this test assignment is to create an application that displays a list of doctors and information about them. The application should have three screens: a list of doctors, a detailed screen, and a booking screen. The data should be loaded in JSON format from the internet.
 
 > SwiftUI, MVVM, Async/await
