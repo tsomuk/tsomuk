@@ -46,6 +46,15 @@ The application helps users browse and purchase NFTs. The purchase functionality
 > UIKIt, Snapkit, UICollectionView, WKWebView, Networking, Kingfisher, ProgressHUD
 <img src="https://github.com/tsomuk/tsomuk/blob/main/NFT_Marketplace/FakeNFT_final.png">
 
+## [<img src='https://github.com/tsomuk/tsomuk/blob/main/Tracker/tracker_icon_croped.png' alt='linkedin' height='20'> Habit Tracker](https://github.com/tsomuk/Tracker)  
+
+The application helps users form and track beneficial habits.
+- Track Habits by Days of the Week: Users can monitor their habits on a daily basis.
+- View Habit Progress: Users can view their progress on habits over time.
+
+> UIKIt, Coredata, Localization, UICollectionView, Snapshot Test
+<img src="https://github.com/tsomuk/tsomuk/blob/main/Tracker/tracker_final2.png">
+
 
 
 ## [<img src='https://github.com/tsomuk/tsomuk/blob/main/Doct24/icon_doct_rounded.png' alt='linkedin' height='20'> Doct24 Online](https://github.com/tsomuk/DocTest) 
