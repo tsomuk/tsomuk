@@ -19,7 +19,7 @@
 <!-- EXAMPLES OF THE APPS -->
 # Examples of work:
 <!-- MOVIE QUIZ -->
-## [<img src='https://github.com/tsomuk/tsomuk/blob/main/app_icons/Movie.png' alt='linkedin' height='20'>](https://github.com/tsomuk/MovieQuiz)  Movie Quiz  
+## [<img src='https://github.com/tsomuk/tsomuk/blob/main/app_icons/Movie.png' alt='linkedin' height='20'> Movie Quiz](https://github.com/tsomuk/MovieQuiz_yp)  
 
 
 A single-page application featuring quizzes about movies from the top 250 IMDb ratings and the most popular films. 
@@ -27,14 +27,26 @@ Users of the application answer questions about the movie ratings sequentially. 
 
 > UIKIt, Networking, UserDefaults, MVC, Unit Tests, UI Tests  
 
-<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_1.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_gif2.gif" width="220"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/Movie_3.png" width="220">
+<img src="https://github.com/tsomuk/tsomuk/blob/main/MovieQuiz/Movie_1.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/MovieQuiz/Movie_gif3.gif" width="220"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tsomuk/tsomuk/blob/main/MovieQuiz/Movie_3.png" width="220">
 
-## [<img src='https://github.com/tsomuk/tsomuk/blob/main/app_icons/imagefeed.png' alt='linkedin' height='20'>](https://github.com/tsomuk/ImageFeed)  ImageFeed
+## [<img src='https://github.com/tsomuk/tsomuk/blob/main/app_icons/imagefeed.png' alt='linkedin' height='20'> ImageFeed](https://github.com/tsomuk/ImageFeed)  
 An application with an endless feed of photos from the Unsplash service. Login is done through an account via WebView. 
 The application has six screens, two main of them  - the image feed and the profile screen. Switching between them is done using a TabBar. From the image feed, you can navigate to a full-screen image viewing screen with the option to save or share the picture.
 
 > UIKIt, UITableView, WKWebView, Networking, Keychain Wrapper, Kingfisher, ProgressHUD, Unit Tests, UI Tests
-<img src="https://github.com/tsomuk/tsomuk/blob/main/ImageFeed/IF_eng2.jpg" >
+<img src="https://github.com/tsomuk/tsomuk/blob/main/ImageFeed/IF_eng2.jpg">
+
+
+## [<img src='https://github.com/tsomuk/tsomuk/blob/main/app_icons/icon_doct.png' alt='linkedin' height='20'> Doct24 Online](https://github.com/tsomuk/DocTest) 
+The goal of this test assignment is to create an application that displays a list of doctors and information about them. The application should have three screens: a list of doctors, a detailed screen, and a booking screen. The data should be loaded in JSON format from the internet.
+
+> SwiftUI, MVVM, Async/await
+
+<img src="https://github.com/tsomuk/tsomuk/blob/main/Doct24/doct24_opti.png">
+
+
+
+
 
 <!--
 
