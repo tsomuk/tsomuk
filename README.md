@@ -18,23 +18,14 @@
 
 <!-- EXAMPLES OF THE APPS -->
 # Examples of work:
-<!-- MOVIE QUIZ -->
-## [<img src='https://github.com/tsomuk/tsomuk/blob/main/MovieQuiz/icon.png' alt='linkedin' height='20'> Movie Quiz](https://github.com/tsomuk/MovieQuiz_yp)  
 
-
-A single-page application featuring quizzes about movies from the top 250 IMDb ratings and the most popular films. 
-Users of the application answer questions about the movie ratings sequentially. At the end of each round, the game displays statistics on the number of correct answers and the user's best results. The goal of the game is to answer all 10 questions in a round correctly.
-
-> UIKIt, Networking, UserDefaults, MVC, Unit Tests, UI Tests  
-
-<img src="https://github.com/tsomuk/tsomuk/blob/main/MovieQuiz/movieQuiz_final.png">
 
 ## [<img src='https://github.com/tsomuk/tsomuk/blob/main/ImageFeed/imagefeed.png' alt='linkedin' height='20'> ImageFeed](https://github.com/tsomuk/ImageFeed)  
 An application with an endless feed of photos from the Unsplash service. Login is done through an account via WebView. 
 The application has six screens, two main of them  - the image feed and the profile screen. Switching between them is done using a TabBar. From the image feed, you can navigate to a full-screen image viewing screen with the option to save or share the picture.
 
 > UIKIt, UITableView, WKWebView, Networking, Keychain Wrapper, Kingfisher, ProgressHUD, Unit Tests, UI Tests
-<img src="https://github.com/tsomuk/tsomuk/blob/main/ImageFeed/IF_eng2.jpg">
+<img src="https://github.com/tsomuk/tsomuk/blob/main/ImageFeed/IF_eng4_lite.jpg">
 
 
 ## [<img src='https://github.com/tsomuk/tsomuk/blob/main/NFT_Marketplace/icon_fakeNFT_rounded.png' alt='linkedin' height='20'> NFT Marketplace](https://github.com/tsomuk/NFT-Marketplace)  
@@ -62,11 +53,21 @@ The goal of this test assignment is to create an application that displays a lis
 
 > SwiftUI, MVVM, Async/await
 
-<img src="https://github.com/tsomuk/tsomuk/blob/main/Doct24/doct24_opti.png">
+<img src="https://github.com/tsomuk/tsomuk/blob/main/Doct24/dock24_final_lite.jpg">
 
 
+<!--
+--- MOVIE QUIZ ----
+## [<img src='https://github.com/tsomuk/tsomuk/blob/main/MovieQuiz/icon.png' alt='linkedin' height='20'> Movie Quiz](https://github.com/tsomuk/MovieQuiz_yp)  
 
 
+A single-page application featuring quizzes about movies from the top 250 IMDb ratings and the most popular films. 
+Users of the application answer questions about the movie ratings sequentially. At the end of each round, the game displays statistics on the number of correct answers and the user's best results. The goal of the game is to answer all 10 questions in a round correctly.
+
+> UIKIt, Networking, UserDefaults, MVC, Unit Tests, UI Tests  
+
+<img src="https://github.com/tsomuk/tsomuk/blob/main/MovieQuiz/movieQuiz_final.png">
+-->
 
 <!--
 
